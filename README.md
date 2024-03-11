@@ -1,4 +1,4 @@
-[![MasterHead](https://i.pinimg.com/736x/11/1a/21/111a218fa1455232512f17ee86d98eff.jpg)](https://rishavchanda.io)
+[![MasterHead](https://i.pinimg.com/736x/11/1a/21/111a218fa1455232512f17ee86d98eff.jpg)]
 <h1 align="center">Hi 👋, I'm Artin Dervishi</h1>
 <h3 align="center">A passionate Software Developer | Backend Developer from Kosovo.</h3>
 
